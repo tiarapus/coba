@@ -2,6 +2,13 @@
 
 This site is still on development
 
+### Description
+This is my personal portfolio page, developed using ReactJS, NodeJS, TailwindCSS, and Firebase.
+
+
+![image](https://github.com/tiarapus/coba/assets/86874248/c2cde1cd-3892-4a38-bf70-68aa1c9a170e)
+
+
 
 
 # React + Vite
